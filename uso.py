@@ -4,3 +4,4 @@ from modulo import persona
 
 p1=persona("Juan",45)
 print(p1)
+print("uso.py")
